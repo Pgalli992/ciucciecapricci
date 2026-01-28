@@ -10,8 +10,9 @@ Ciucci e Capricci è un brand di accessori per bambini, portaciucci, torte di pa
 - 
 
 ## Colors
-- Primary: #000000
-- Secondary: #ffffff
+- Primary: #99e9f2
+- Secondary: #ffc9c9
+- Tertiary: #96f2d7
 
 ## Typography
-- Main Font: Inter, sans-serif
+- Main Font: Dosis, sans-serif
